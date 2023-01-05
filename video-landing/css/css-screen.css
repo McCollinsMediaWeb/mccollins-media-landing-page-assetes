@@ -1,0 +1,258 @@
+/*
+-webkit-user-select: none; /* Safari 
+-moz-user-select: none; /* Firefox 
+-ms-user-select: none; /* IE10+/Edge 
+user-select: none; /* Standard */
+
+/* Quick Enquiry CSS */
+.qef{
+	top:14%;
+	left: 100%;
+	width: 300px;
+	position: fixed;
+	transition: all 250ms;
+	z-index: 9999;
+}
+
+.qef.active {
+    left: calc( 100% - 300px);
+}
+
+.quickEnqContainer{
+	position: relative;
+}
+
+.quickEnq{
+    border: 2px solid #fff;
+    background: rgb(0,0,0);
+	background: -moz-linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(233,67,43,0.5) 50%, rgba(0,0,0,0.5) 100%);
+	background: -webkit-linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(233,67,43,0.5) 50%, rgba(0,0,0,0.5) 100%);
+	background: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(233,67,43,0.5) 50%, rgba(0,0,0,0.5) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+}
+
+.quickEnq h3{
+	color: #fff;
+}
+
+.enqBtn{
+	transform: rotate(-90deg);
+    height: 26px;
+    width: 128px;
+    position: absolute;
+    white-space: nowrap;
+    left: -77px;
+    top: 36%;
+    background-color: #fdce1a !important;;
+    color: #fff;
+    border: 2px solid #fff;
+    border-bottom-width: 0;
+    outline: none;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+/* Quick Enquiry CSS */
+
+.hr_white {
+    border-top: 2px solid #ffffff;
+	display: none;
+}
+
+.rel-cont{
+	position: relative !important;
+	width: 100%;
+	height: 100%;
+}
+
+.abs-cont{
+	position: absolute !important;
+	top: 0px;
+    z-index: 999;
+}
+
+.forMobile{
+	display: none;
+	opacity: 0;
+}
+
+@media (max-width: 360px) and (min-width: 240px) {
+	.forMobile{
+		display: block;
+		opacity: 1;
+	}
+	.forPC{
+		display: none;
+		opacity: 0;
+	}
+	.videoContPC {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 480px) and (min-width: 361px) {
+	.forMobile{
+		display: block;
+		opacity: 1;
+	}
+	.forPC{
+		display: none;
+		opacity: 0;
+	}
+	.videoContPC {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 576px) and (min-width: 481px) {
+	.forMobile{
+		display: block;
+		opacity: 1;
+	}
+	.forPC{
+		display: none;
+		opacity: 0;
+	}
+	.videoContPC {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 640px) and (min-width: 577px) {
+	.forMobile{
+		display: block;
+		opacity: 1;
+	}
+	.forPC{
+		display: none;
+		opacity: 0;
+	}
+	.videoContPC {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 768px) and (min-width: 641px) {
+	.forMobile{
+		display: block;
+		opacity: 1;
+	}
+	.forPC{
+		display: none;
+		opacity: 0;
+	}
+	.videoContMob {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 991px) and (min-width: 769px) {
+	.forMobile{
+		display: block;
+		opacity: 1;
+	}
+	.forPC{
+		display: none;
+		opacity: 0;
+	}
+	.videoContMob {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 1024px) and (min-width: 992px) {
+	.forMobile{
+		display: none;
+		opacity: 0;
+	}
+	.forPC{
+		display: block;
+		opacity: 1;
+	}
+	.hiddenMidpoint{
+		display: none;
+	}
+	.videoContMob {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 1200px) and (min-width: 1025px) {
+	.forMobile{
+		display: none;
+		opacity: 0;
+	}
+	.forPC{
+		display: block;
+		opacity: 1;
+	}
+	.hiddenMidpoint{
+		display: none;
+	}
+	.videoContMob {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 1366px) and (min-width: 1201px) {
+	.forMobile{
+		display: none;
+		opacity: 0;
+	}
+	.forPC{
+		display: block;
+		opacity: 1;
+	}
+	.hr_white {
+		display: block;
+	}
+	.videoContMob {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 1920px) and (min-width: 1367px) {
+	.forMobile{
+		display: none;
+		opacity: 0;
+	}
+	.forPC{
+		display: block;
+		opacity: 1;
+	}
+	.hr_white {
+		display: block;
+	}
+	.videoContMob {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}
+
+@media (max-width: 2560px) and (min-width: 1921px) {
+	.forMobile{
+		display: none;
+		opacity: 0;
+	}
+	.forPC{
+		display: block;
+		opacity: 1;
+	}
+	.hr_white {
+		display: block;
+	}
+	.videoContMob {
+	    display:none !important;
+	    opacity: 0 !important;
+	}
+}

@@ -1,0 +1,243 @@
+hr {
+    margin-top: 8px !important;
+    margin-bottom: 8px !important;
+    border: 0;
+	border-top-color: currentcolor;
+	border-top-style: none;
+	border-top-width: 0px;
+    border-top: 1px solid #eee;
+}
+
+/*.toggleAudio{
+	width:40px;
+	height:40px;
+}*/
+
+.text-justify{
+	text-align: justify !important;
+	color: #808080;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #fff !important;
+    background-color: #ff4073 !important;
+}
+
+.accordion-body {
+    background: #fff;
+    border: 1px solid #ccc;
+}
+
+.accordion-button::after {
+    background-image: url("../fonts/images-accordion-arrow-2.svg") !important;
+}
+
+.accordion-item{
+	background-color:#283290;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url("../fonts/images-accordion-arrow.svg") !important;
+}
+
+.contact_icon{
+	text-align: center;
+    vertical-align: middle;
+    padding: 20px;
+    border-radius: 50%;
+}
+.portClass h1{
+	font-size: 44px;
+	text-align: left;
+	font-weight: 700;
+	text-decoration: none;
+	color: #333333;
+	font-family: 'Poppins', sans-serif;
+}
+.portClass h2{
+	font-size: 44px;
+    text-align: left;
+    font-weight: 700;
+    text-decoration: none;
+    color: #333333;
+    font-family: 'Poppins', sans-serif;
+}
+
+.portClass p{
+	font-size: 15px;
+	text-align: justify;
+	color: #333333;
+}
+
+.b-1{
+	border: 1px solid #ccc;
+}
+
+.singleDiv h4{
+	color: #ee4266;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+
+.singleDiv p{
+	font-size: 14px;
+    line-height: 1.714em;
+	text-align: justify;
+	min-height: 140px;
+}
+
+.firstSlideBG{
+	width: 300px;
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+
+.text-bold{
+	font-weight: bold;
+}
+
+.proDv{
+	padding: 30px 0 8px 0;
+}
+
+.proh5{
+	font-size: 17px;
+    min-height: 2.6rem;
+}
+
+.para2{
+	color: #fdce1a !important;
+	font-weight: bold;
+}
+
+.para{
+	font-size: 16px;
+}
+
+.para a{
+	color: #ff4073;
+	font-size: 14px;
+    font-weight: 500;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	transition: all .2s ease-in-out 0s;
+}
+
+.para a:hover{
+	color: #000;
+	text-decoration: none;
+	letter-spacing: .15em;
+}
+
+.filter-button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 6px 10px;
+    transition: 0.3s;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 16px;
+    font-family: inherit;
+    letter-spacing: .05em;
+    color: #fff;
+    overflow: hidden;
+    text-align: center;
+    background-color: #a6a7a9;
+    position: relative;
+    z-index: 1;
+    transition: all 0.3s ease 0s;
+}
+
+.filter-button:focus {
+  outline: none;
+}
+
+.filter-button:hover {
+	background-color: #143e8b;
+	color: #fff;
+}
+.filter-button:active,
+.filter-button.active {
+  background-color:#143e8b;
+}
+
+.btn-default:active .filter-button:active .filter-button2:active {
+    background-color: #ff4073;
+    color: white;
+}
+
+.port-image {
+    width: 100%;
+}
+
+.gallery_product {
+    margin-bottom: 30px;
+}
+
+.radius-image {
+    border-radius: 6px;
+}
+
+.img-container{
+	position: relative;
+	width: 100%;
+	cursor: pointer;
+}
+
+.img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.portfolio-overlay {
+	position: absolute; 
+	bottom: 1%;
+    left: 1%;
+    right: 1%; 
+	/* background: rgb(233, 67, 43); */
+	/* background: rgba(233, 67, 43, 0.6);  Black see-through */
+	background: linear-gradient(90deg, rgba(253,71,3,1) 0%, rgba(255,163,150,0.49933476808692223) 50%, rgba(253,3,126,1) 100%);
+	color: #ffffff; 
+	width: 98%;
+	transition: .5s ease;
+	opacity:0;
+	color: white;
+	font-size: 15px;
+	font-weight: 600;
+	padding: 20px;
+	text-align: center;
+	height: auto;
+	border-radius: 6px;
+	text-shadow: 2px 2px 2px #333333;
+}
+
+.img-container:hover .portfolio-overlay {
+	opacity: 1;
+}
+
+.animTxt{
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}
+
+.zoomInOut {
+	animation-name: zoomInOut;
+	animation-timing-function: ease;
+}
+@keyframes zoomInOut {
+	0%   { transform: scale(1); }
+	50%  { transform: scale(0.9); }
+	100% { transform: scale(1); }
+}
+
+/*// Small devices (landscape phones, 576px and below)*/
+@media (max-width: 576px) {
+	.portClass h2{ font-size: 44px; }
+	.portClass p{ font-size: 1rem; padding-left: 1rem; padding-right: 1rem; }
+	.toggleAudio{ width:30px; height:30px; }
+}
