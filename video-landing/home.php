@@ -30,10 +30,10 @@ corporate video production company based in UAE, Pakistan and Portugal">
 corporate video production company based in UAE, Pakistan and Portugal">
 
 <!-- Favicon and touch icons -->
-<link rel="shortcut icon" type="image/x-icon" href="<?php echo get_template_directory_uri(); ?>/favicons/images-favicon.png">
-<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/favicons/images-favicon.png">
-<link rel="shortcut icon" type="image/x-icon" href="<?php echo get_template_directory_uri(); ?>/favicons/images-favicon.png">
-<link rel="shortcut icon" type="image/x-icon" href="<?php echo get_template_directory_uri(); ?>/favicons/images-favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//favicons/images-favicon.png">
+<link rel="apple-touch-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//favicons/images-favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//favicons/images-favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//favicons/images-favicon.ico">
 <meta name="robots" content="index,follow">
 <!-- Favicon and touch icons -->
 
@@ -45,23 +45,23 @@ corporate video production company based in UAE, Pakistan and Portugal">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <!-- Template CSS -->
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/css-style.css">
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/css-screen.css">
+<link rel="stylesheet" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//css/css-style.css">
+<link rel="stylesheet" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//css/css-screen.css">
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
 
 <!-- Link Swiper's CSS -->
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/assets-swiper-bundle.min.css">
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/filter-filter.css">
+<link rel="stylesheet" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//css/assets-swiper-bundle.min.css">
+<link rel="stylesheet" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//css/filter-filter.css">
 
 <!-- Bootstrap CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
-<script src="<?php echo get_template_directory_uri(); ?>/js/js-sweetalert.min.js"></script>
-<script src="<?php echo get_template_directory_uri(); ?>/js/js-jquery-3.5.1.js"></script>
+<script src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//js/js-sweetalert.min.js"></script>
+<script src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//js/js-jquery-3.5.1.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- Swiper JS -->
-<script src="<?php echo get_template_directory_uri(); ?>/js/3286-assets-swiper-bundle.min.js"></script>
+<script src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//js/3286-assets-swiper-bundle.min.js"></script>
 
 <script>
     var setBAutoHeight = function(){
@@ -206,12 +206,20 @@ $(document).ready(function() {
 	});
 });
 </script>
-
+<style type="text/css">
+	@media only screen and (max-width: 700px) {
+		.p-5.Pad0 {
+					padding: 0 !important;
+		}
+		
+	}
+	
+</style>
 </head>
 
 <body>
 <header class="header">
-    <div class="logo-block"> <a href="mccollinsmedia.com"> <img src="<?php echo get_template_directory_uri(); ?>/images/mclogo-1.png" class="img-responsive logo-object"> </a> </div>
+    <div class="logo-block"> <a href="mccollinsmedia.com"> <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/mclogo-1.png" class="img-responsive logo-object"> </a> </div>
     <nav class="nav-bar">
         <div class="nav-menu">
             <div class="nav-wrapper">
@@ -225,19 +233,19 @@ $(document).ready(function() {
                 </ul>
                 <div class="lead-links">
                     <a href="mailto:hey@mccollinsmedia.com">
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/images-menu-mail.svg" class="menu-prefixicon">
+                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-menu-mail.svg" class="menu-prefixicon">
                         hey@mccollinsmedia.com
                     </a>
                     <a href="tel:+971551171248">
-                        <img src="<?php echo get_template_directory_uri(); ?>/images/images-menu-land.svg" class="menu-prefixicon">
+                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-menu-land.svg" class="menu-prefixicon">
                         +971 55 117 1248
                     </a>
                 </div>
                 <ul class="foot-social">
-                    <li><a href="https://www.youtube.com/channel/UCis7EkkO95RtbiQz0Qeivkg" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/images-youtube.svg"></a></li>
-                    <li><a href="https://vimeo.com/mccollinsmediaproductions" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/images-vimeo.svg"></a></li>
-                    <li><a href="https://www.facebook.com/mccollinsmediaproductions" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/images-facebook.svg"></a></li>
-                    <li><a href="https://www.instagram.com/mccollinsmediaproductions/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/images-instagram.svg"></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCis7EkkO95RtbiQz0Qeivkg" target="_blank"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-youtube.svg"></a></li>
+                    <li><a href="https://vimeo.com/mccollinsmediaproductions" target="_blank"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-vimeo.svg"></a></li>
+                    <li><a href="https://www.facebook.com/mccollinsmediaproductions" target="_blank"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-facebook.svg"></a></li>
+                    <li><a href="https://www.instagram.com/mccollinsmediaproductions/" target="_blank"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-instagram.svg"></a></li>
 
                 </ul>
             </div>
@@ -356,14 +364,14 @@ $(document).ready(function() {
 	<div class="nu_relCont">
 	    <div class="videoContPC videoContainer">
             <div class="overlay"></div>
-            <video title="Film Production Company Dubai" autoplay loop muted playsinline preload="auto" alt="McCollins Media Production" style="width: 100%;" class="video-fluid coverVid">
-			<source src="<?php echo get_template_directory_uri(); ?>/test1.mp4" type="video/mp4" media="screen"></source>
+            <video style="max-height:100vh;object-fit:cover;" title="Film Production Company Dubai" autoplay loop muted playsinline preload="auto" alt="McCollins Media Production" style="width: 100%;" class="video-fluid coverVid">
+			<source src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/main-banner.mp4" type="video/mp4" media="screen"></source>
 			Your browser does not support HTML5 video.
 		</video>
         </div>
 		<div class="videoContMob">
             <video title="Film Production Company Dubai" autoplay loop muted playsinline preload="auto" alt="McCollins Media Production" style="width: 100%;" class="video-fluid coverVid">
-			<source src="<?php echo get_template_directory_uri(); ?>/test2.mp4" type="video/mp4" media="screen"></source>
+			<source src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/main-banner-mobile.mp4" type="video/mp4" media="screen"></source>
 			Your browser does not support HTML5 video.
 		</video>
         </div>
@@ -398,7 +406,7 @@ $(document).ready(function() {
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-12 col-lg-6 my-auto">
-				<div class="p-5">
+				<div class="p-5 Pad0">
 					<h1 class="mb-3"><span class="fw-bold" style="color: #e6252e;font-size:30px;">NETFLIX </span><span style="font-size:20px;">picked film&rsquo;s UAE Producers:</span> <br>  <b style="font-family: 'Bree Serif', serif;"> #1 Lorem ipsum dolor sit amet
 					</b></h1>
 					<p class="">
@@ -411,7 +419,7 @@ $(document).ready(function() {
 			</div>
 			<div class="col-12 col-lg-6 my-auto">
 				<div class="imgCont">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/images-MamsaabPoster.png" class="img-fluid" alt="">
+					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/amazone2.jpg" class="img-fluid" alt="">
 					<div class="posterOverlay">
 						<i class="fa fa-youtube-play  pgImg"></i>
 					</div>
@@ -425,8 +433,8 @@ $(document).ready(function() {
 		<div class="row">
 			
 			<div class="col-6 col-lg-3 col-md-3 border servCon px-0">
-				<div class="nu_relCont servConBG" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/video-production-company-dubai-2.jpg);">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
+				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video-production-company-dubai-2.jpg);">
+					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
 					<div class="centered" style="top:50%;">
 						<center>
 							<h3>112</h3>
@@ -438,8 +446,8 @@ $(document).ready(function() {
 			</div>
 			
 			<div class="col-6 col-lg-3 col-md-3 border servCon px-0">
-				<div class="nu_relCont servConBG" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/video-production-company-dubai-3.jpg);">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
+				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video-production-company-dubai-3.jpg);">
+					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
 					<div class="centered" style="top:50%;">
 						<center>
 							<h3>10+</h3>
@@ -451,8 +459,8 @@ $(document).ready(function() {
 			</div>
 			
 			<div class="col-6 col-lg-3 col-md-3 border servCon px-0">
-				<div class="nu_relCont servConBG" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/video-production-company-dubai-4.jpg);">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
+				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video-production-company-dubai-4.jpg);">
+					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
 					<div class="centered" style="top:50%;">
 						<center>
 							<h3>320</h3>
@@ -464,8 +472,8 @@ $(document).ready(function() {
 			</div>
 			
 			<div class="col-6 col-lg-3 col-md-3 border servCon px-0">
-				<div class="nu_relCont servConBG" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/video-production-company-dubai-1.jpg);">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
+				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video-production-company-dubai-1.jpg);">
+					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
 					<div class="centered" style="top:50%;">
 						<center>
 							<h3>125</h3>
@@ -480,11 +488,11 @@ $(document).ready(function() {
 	</div>
 </section><section class="py-1">
     <video class="sas-desktop-animation" title="Film Production Company Dubai" autoplay loop muted playsinline preload="auto" alt="McCollins Media Production" style="width: 100%;">
-        <source src="<?php echo get_template_directory_uri(); ?>/14 Secs of Content with McCollins Media.mp4" type="video/mp4" media="screen"></source>
+        <source src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/main-banner-2.mp4" type="video/mp4" media="screen"></source>
         Your browser does not support HTML5 video.
     </video>
     <video class="sas-mobile-animation" title="Film Production Company Dubai" autoplay loop muted playsinline preload="auto" alt="McCollins Media Production" style="width: 100%;">
-        <source src="<?php echo get_template_directory_uri(); ?>/14 Secs of Content with McCollins Media.mp4" type="video/mp4" media="screen"></source>
+        <source src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/main-banner-2.mp4" type="video/mp4" media="screen"></source>
         Your browser does not support HTML5 video.
     </video>
 </section><section class="">
@@ -523,7 +531,7 @@ Music: Dixon Wilson Studios
 Color Grading: Zairi Mohd -Big Foot BKK
 Post: Posthouse
 Production: McCollins Media Productions" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813326.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813326.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="19" vidurl="https://www.youtube.com/embed/r0g52618F5c" vidtitl="TV Commercial" vidDesc="  Director: Faisal Rasheed Khan
 Producer: Fahad Shaikh
@@ -535,7 +543,7 @@ Post: Posthouse
 Production: McCollins Media Productions"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">TV Commercial</p>
@@ -551,7 +559,7 @@ Cinematographer: Wat Anuwat Sreprecha
 Grading: The Post Bangkok
 Client: Khaadi
 Agency: JWT" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813366.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813366.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="18" vidurl="https://player.vimeo.com/video/349027814" vidtitl="TV Commercial" vidDesc="   Executive Producer: McCollins Media Productions
 Director: Faisal Rasheed
@@ -561,7 +569,7 @@ Client: Khaadi
 Agency: JWT"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">TV Commercial</p>
@@ -576,7 +584,7 @@ Director : Zeeshan Khan
 Cinematographer: Imran Haroon
 Grading: Serial Kolor Inc.
 Client: National Foods Limited" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813378.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813378.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="17" vidurl="https://www.youtube.com/embed/rtZJcqFCOJw" vidtitl="TV Series" vidDesc=" Executive Producer: McCollins Media Productions
 Director : Zeeshan Khan
@@ -585,7 +593,7 @@ Grading: Serial Kolor Inc.
 Client: National Foods Limited"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">TV Series</p>
@@ -601,7 +609,7 @@ Cinematographer: Rana Kamran
 Grading : The Post Bangkok
 Client : Shell
 Agency : JWT Grey" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813388.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813388.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="16" vidurl="https://player.vimeo.com/video/349030722" vidtitl="TV Commercial" vidDesc=" Executive Producer : McCollins Media Productions
 Director : Faisal Rasheed
@@ -611,7 +619,7 @@ Client : Shell
 Agency : JWT Grey"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">TV Commercial</p>
@@ -622,12 +630,12 @@ Agency : JWT Grey"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="15" vidurl="https://www.youtube.com/embed/UEOW-SFw5Y4" vidtitl="Promo Video" viddesc=" Deyaar Bella Rose Project Video - Explainer Video - Promo Video - Real Estate" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813441.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813441.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="15" vidurl="https://www.youtube.com/embed/UEOW-SFw5Y4" vidtitl="Promo Video" vidDesc=" Deyaar Bella Rose Project Video - Explainer Video - Promo Video - Real Estate"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Promo Video</p>
@@ -638,12 +646,12 @@ Agency : JWT Grey"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="14" vidurl="https://www.youtube.com/embed/7t800jEOw3U" vidtitl="Event Coverage" viddesc=" Siemens Healthineers AG is the parent company for several medical technology companies and is headquartered in Erlangen, Germany. The company held its annual exhibition at MEDLAB &amp; Arab Health in World Trade Centre 2019. McCollins Media covered a 6 days event as a media team for Siemens Healthineers for consecutive 3 years in a row." class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659814186.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659814186.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="14" vidurl="https://www.youtube.com/embed/7t800jEOw3U" vidtitl="Event Coverage" vidDesc=" Siemens Healthineers AG is the parent company for several medical technology companies and is headquartered in Erlangen, Germany. The company held its annual exhibition at MEDLAB & Arab Health in World Trade Centre 2019. McCollins Media covered a 6 days event as a media team for Siemens Healthineers for consecutive 3 years in a row."></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Event Coverage</p>
@@ -654,12 +662,12 @@ Agency : JWT Grey"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="13" vidurl="https://www.youtube.com/embed/-UOIel4kWwk" vidtitl="Music Video" viddesc=" Produced by McCollins Media Productions" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813507.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813507.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="13" vidurl="https://www.youtube.com/embed/-UOIel4kWwk" vidtitl="Music Video" vidDesc=" Produced by McCollins Media Productions"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Music Video</p>
@@ -675,7 +683,7 @@ About Client: GCAA is a leading, Safe, Secure, and Sustainable Aviation System. 
 
 Agency: Mastermind Advertising
 Animation by: Mastermind Advertising" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813524.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813524.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="12" vidurl="https://www.youtube.com/embed/y-BxLCdMsTI" vidtitl="Corporate Video" vidDesc=" UAE General Civil Aviation Authority (SZC Corporate Video) - 2016
 
@@ -685,7 +693,7 @@ Agency: Mastermind Advertising
 Animation by: Mastermind Advertising"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Corporate Video</p>
@@ -696,12 +704,12 @@ Animation by: Mastermind Advertising"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="11" vidurl="https://www.youtube.com/embed/qfncm-1GE1w" vidtitl="Social Media Video" viddesc=" Three years ago, it was announced that Abu Dhabi would become the first Arab country to host a WorldSkills Competition. WorldSkills Abu Dhabi 2017 will be a celebration of excellence and a unique opportunity to share knowledge. The competition is also the latest stage in a journey that begins in a world that only a few now remember." class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813561.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813561.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="11" vidurl="https://www.youtube.com/embed/qfncm-1GE1w" vidtitl="Social Media Video" vidDesc=" Three years ago, it was announced that Abu Dhabi would become the first Arab country to host a WorldSkills Competition. WorldSkills Abu Dhabi 2017 will be a celebration of excellence and a unique opportunity to share knowledge. The competition is also the latest stage in a journey that begins in a world that only a few now remember."></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Social Media Video</p>
@@ -712,12 +720,12 @@ Animation by: Mastermind Advertising"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="10" vidurl="https://www.youtube.com/embed/KZ1C_FqD-Gs" vidtitl="Event Coverage" viddesc=" Wadi Adventures, a whitewater rafting, kayaking, and surfing destination hosted the first-ever UAE leg of the International Rafting Federation's World Rafting Championship in cooperation with key partner Tamouh Investments Group. " class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813578.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813578.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="10" vidurl="https://www.youtube.com/embed/KZ1C_FqD-Gs" vidtitl="Event Coverage" vidDesc=" Wadi Adventures, a whitewater rafting, kayaking, and surfing destination hosted the first-ever UAE leg of the International Rafting Federation's World Rafting Championship in cooperation with key partner Tamouh Investments Group. "></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Event Coverage</p>
@@ -730,14 +738,14 @@ Animation by: Mastermind Advertising"></i>
                                     <a href="#" vididef="9" vidurl="https://www.youtube.com/embed/O51m4GbQfPQ" vidtitl="Web Commercial" viddesc=" Directed by: Fahad Shaikh
 Produced by: McCollins Media
 Agency: We Are-Asia" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813600.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813600.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="9" vidurl="https://www.youtube.com/embed/O51m4GbQfPQ" vidtitl="Web Commercial" vidDesc=" Directed by: Fahad Shaikh
 Produced by: McCollins Media
 Agency: We Are-Asia"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Web Commercial</p>
@@ -748,12 +756,12 @@ Agency: We Are-Asia"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="8" vidurl="https://www.youtube.com/embed/jBnh1bfIM4k" vidtitl="Corporate Commercial" viddesc=" PhotoGauge Web Video" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659814454.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659814454.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="8" vidurl="https://www.youtube.com/embed/jBnh1bfIM4k" vidtitl="Corporate Commercial" vidDesc=" PhotoGauge Web Video"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Corporate Commercial</p>
@@ -764,12 +772,12 @@ Agency: We Are-Asia"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="7" vidurl="https://www.youtube.com/embed/2vldhdlHZD0" vidtitl="TV Commercial" viddesc=" TV Commercial Production - National Desserts - Food Videos" class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813624.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813624.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="7" vidurl="https://www.youtube.com/embed/2vldhdlHZD0" vidtitl="TV Commercial" vidDesc=" TV Commercial Production - National Desserts - Food Videos"></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">TV Commercial</p>
@@ -780,12 +788,12 @@ Agency: We Are-Asia"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="6" vidurl="https://www.youtube.com/embed/ctn6lsBS4_M" vidtitl="Corporate Commercial" viddesc=" On the year announced by the UAE authorities to name the year as Year of Zayed, this short film tells a compelling story of an individual who was inspired by the journey of Late Sheikh Zayed Bin Sultan Al Nahyan since his childhood. This inspiration has led him and millions of people around the world and especially in the UAE to change their fate." class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813633.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813633.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="6" vidurl="https://www.youtube.com/embed/ctn6lsBS4_M" vidtitl="Corporate Commercial" vidDesc=" On the year announced by the UAE authorities to name the year as Year of Zayed, this short film tells a compelling story of an individual who was inspired by the journey of Late Sheikh Zayed Bin Sultan Al Nahyan since his childhood. This inspiration has led him and millions of people around the world and especially in the UAE to change their fate."></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Corporate Commercial</p>
@@ -796,12 +804,12 @@ Agency: We Are-Asia"></i>
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="5" vidurl="https://www.youtube.com/embed/2lRpDtJqgCI" vidtitl="TV Commercial" viddesc=" This TV/Web Commercial " first love by emirates nbd is pure to its heart. on this valentines day wishing you your valentine for beautiful concept was praised many and loved thousands in the period of campaign. class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813640.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813640.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="5" vidurl="https://www.youtube.com/embed/2lRpDtJqgCI" vidtitl="TV Commercial" vidDesc=" This TV/Web Commercial "First Love" by Emirates NBD is pure to its heart. On this valentines day, Emirates NBD wishing you your first valentine's for your first love "Mother". This beautiful concept was praised by many and loved by thousands in the period of the campaign."></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">TV Commercial</p>
@@ -814,14 +822,14 @@ Agency: We Are-Asia"></i>
                                     <a href="#" vididef="4" vidurl="https://www.youtube.com/embed/hG4CK5sB99o" vidtitl="Documentary Film" viddesc="  A film about the journey to find a deeper meaning of the unknown, &ldquo;M1-K&Oslash;&rdquo; follows Mikolaj Zenliski, a Polish software engineer on his bicycle training in the middle of the desert, who could be blasting off to the Red Planet after getting through to the next stage of the Mars One project.
 
 Fahad Shaikh (McCollins Media) has directed and produced this documentary film which was part of the Arab Film Studio Program by Image Nation Abu Dhabi. The film was shown in multiple international acclaimed film festivals which makes it one of a kind film coming out from the UAE." class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813647.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813647.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="4" vidurl="https://www.youtube.com/embed/hG4CK5sB99o" vidtitl="Documentary Film" vidDesc="  A film about the journey to find a deeper meaning of the unknown, &ldquo;M1-K&Oslash;&rdquo; follows Mikolaj Zenliski, a Polish software engineer on his bicycle training in the middle of the desert, who could be blasting off to the Red Planet after getting through to the next stage of the Mars One project.
 
 Fahad Shaikh (McCollins Media) has directed and produced this documentary film which was part of the Arab Film Studio Program by Image Nation Abu Dhabi. The film was shown in multiple international acclaimed film festivals which makes it one of a kind film coming out from the UAE."></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Documentary Film</p>
@@ -834,14 +842,14 @@ Fahad Shaikh (McCollins Media) has directed and produced this documentary film w
                                     <a href="#" vididef="3" vidurl="https://www.youtube.com/embed/KpYkGxoojIc" vidtitl="Feature Film" viddesc=" The lives of a gullible maid, a beautiful socialite, an ambitious investment banker, and a happy-go-lucky chauffeur become entwined in Dubai. Directed by Shazia Ali Khan
 
 McCollins Media Productions has co-produced Pinky Memsaab that has garnered UK Asian Film Festival as the Best Film Audience Choice in 2018. The film was nationwide released in UAE, Pakistan and across GCC, and after a successful show-run, it is now streaming on Netflix. Raving reviews of the film is a true depiction of what we can achieve on home ground when it comes to producing Feature films in UAE and Pakistan." class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659813655.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659813655.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="3" vidurl="https://www.youtube.com/embed/KpYkGxoojIc" vidtitl="Feature Film" vidDesc=" The lives of a gullible maid, a beautiful socialite, an ambitious investment banker, and a happy-go-lucky chauffeur become entwined in Dubai. Directed by Shazia Ali Khan
 
 McCollins Media Productions has co-produced Pinky Memsaab that has garnered UK Asian Film Festival as the Best Film Audience Choice in 2018. The film was nationwide released in UAE, Pakistan and across GCC, and after a successful show-run, it is now streaming on Netflix. Raving reviews of the film is a true depiction of what we can achieve on home ground when it comes to producing Feature films in UAE and Pakistan."></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Feature Film</p>
@@ -852,12 +860,12 @@ McCollins Media Productions has co-produced Pinky Memsaab that has garnered UK A
 					                            <div class="col-4 col-lg-2">
                                 <div class="imgCont hover_play">
                                     <a href="#" vididef="2" vidurl="https://www.youtube.com/embed/Dge_2QLtvWA" vidtitl="Corporate Video" viddesc="    ADWEA Sweihan Solar Power Project Corporate film produced by McCollins Media that showcases the significance, impact, and transformative potential of the World's Largest PV Solar Project. This will be in line with the vision and the plans of the team in charge of the UAE Energy Plan 2050." class="vidPlayBtn">
-                                        <img src="<?php echo get_template_directory_uri(); ?>/images/video_images-1659814269.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
+                                        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video_images-1659814269.jpeg" class="img-fluid rounded imgSl" alt="film production company dubai">
                                         <!-- <div class="posterOverlay">
 										<i class="fa fa-play-circle-o vidPlayBtn" vididef="2" vidurl="https://www.youtube.com/embed/Dge_2QLtvWA" vidtitl="Corporate Video" vidDesc="    ADWEA Sweihan Solar Power Project Corporate film produced by McCollins Media that showcases the significance, impact, and transformative potential of the World's Largest PV Solar Project. This will be in line with the vision and the plans of the team in charge of the UAE Energy Plan 2050."></i>
 									</div> -->
                                         <div class="overlay">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/images-play-button.svg" class="portfolio-play" alt="">
+                                            <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-play-button.svg" class="portfolio-play" alt="">
                                         </div>
                                         <div class="poster-topRight">
                                             <p class="text-start forPC">Corporate Video</p>
@@ -927,7 +935,7 @@ McCollins Media Productions has co-produced Pinky Memsaab that has garnered UK A
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-12 col-lg-6 my-auto">
-				<div class="p-5">
+				<div class="p-5 Pad0">
 					<h1 class="mb-3"><span class="fw-bold" style="color: #e6252e;font-size:30px;">NETFLIX </span><span style="font-size:20px;">picked film&rsquo;s UAE Producers:</span> <br>  <b style="font-family: 'Poppins', sans-serif;"> #1 Lorem ipsum dolor sit amet
 					</b></h1>
 					<p class="">
@@ -940,7 +948,7 @@ McCollins Media Productions has co-produced Pinky Memsaab that has garnered UK A
 			</div>
 			<div class="col-12 col-lg-6 my-auto">
 				<div class="imgCont">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/images-MamsaabPoster.png" class="img-fluid" alt="">
+					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/amazone1.jpg" class="img-fluid" alt="">
 					<div class="posterOverlay">
 						<i class="fa fa-youtube-play  pgImg"></i>
 					</div>
@@ -979,84 +987,84 @@ $(document).ready(function() {
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-presentation-videos.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814600.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814600.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-event-videos.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814635.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814635.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-social-videos.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814700.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814700.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-explainer-videos.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814687.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814687.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-tv-commercial.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814892.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814892.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-interview-videos.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814720.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814720.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-feature-film.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814806.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814806.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-youtube-ads.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814707.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814707.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-corporate-video.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814781.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814781.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-testimonial-videos.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814729.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814729.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-food-and-recipe-videos.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814800.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814800.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
 						<div class="col-6 col-lg-4 col-md-4 mb-0 p-1">
 				<div class="nu_relCont">
 					<a href="sas-music-videos.html" class="catImg">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/subcat_images-1659814663.jpeg" class="img-fluid" alt="McCollins Media Production">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/subcat_images-1659814663.jpeg" class="img-fluid" alt="McCollins Media Production">
 					</a>
 				</div>
 			</div>
@@ -1079,23 +1087,6 @@ $(document).ready(function() {
 			</div>
 		</div>
 	</div>
-</section>
-
-<section class="mb-0 pb-0">
-    <div class="videoContPC videoContainer">
-        <div class="overlay"></div>
-        <video title="Film Production Company Dubai" autoplay loop muted playsinline preload="auto" alt="McCollins Media Production" style="width: 100%;" class="video-fluid coverVid2">
-		<source src="https://www.mccollinsmedia.com/assets/videos/SAS-video-desk2.mp4" type="video/mp4" media="screen"></source>
-		Your browser does not support HTML5 video.
-	</video>
-    </div>
-	<div class="videoContMob">
-        <video title="Film Production Company Dubai" autoplay loop muted playsinline preload="auto" alt="McCollins Media Production" style="width: 100%;" class="video-fluid coverVid2">
-		<source src="https://www.mccollinsmedia.com/assets/videos/SAS-	video-mob2.mp4" type="video/mp4" media="screen"></source>
-		Your browser does not support HTML5 video.
-	</video>
-    </div>
-	
 </section>
 
 <section class="py-3">
@@ -1122,7 +1113,7 @@ $(document).ready(function() {
         			<div class="col-12 col-lg-4">
         			    <div class="card my-auto">
 							<div class="card-body set-box-height-1 text-center">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/tabs-film_edit.png" width="70" class="img-fluid" alt="Video Editing">
+								<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/tabs-film_edit.png" width="70" class="img-fluid" alt="Video Editing">
 								<h5 class="card-title text-red"><b> Lorem Ipsum</b></h5>
 								<div class="" style="font-size: 13px !important;font-weight: 400;line-height:1.5;">
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -1134,7 +1125,7 @@ $(document).ready(function() {
         			<div class="col-12 col-lg-4">
         			    <div class="card my-auto">
 							<div class="card-body set-box-height-1 text-center">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/tabs-film_permit.png" width="70" class="img-fluid" alt="Video Editing">
+								<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/tabs-film_permit.png" width="70" class="img-fluid" alt="Video Editing">
 								<h5 class="card-title text-red"><b>Lorem Ipsum</b></h5>
 								<div class="" style="font-size: 13px !important;font-weight: 400;line-height:1.5;">
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -1146,7 +1137,7 @@ $(document).ready(function() {
         			<div class="col-12 col-lg-4">
         			    <div class="card my-auto">
 							<div class="card-body set-box-height-1 text-center">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/tabs-Videography.png" width="70" class="img-fluid" alt="Video Editing">
+								<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/tabs-Videography.png" width="70" class="img-fluid" alt="Video Editing">
 								<h5 class="card-title text-red"><b>Lorem Ipsum</b></h5>
 								<div class="" style="font-size: 13px !important;font-weight: 400;line-height:1.5;">
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -1158,7 +1149,7 @@ $(document).ready(function() {
         			<div class="col-12 col-lg-4">
         			    <div class="card my-auto">
 							<div class="card-body set-box-height-1 text-center">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/tabs-script_writing.png" width="70" class="img-fluid" alt="Video Editing">
+								<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/tabs-script_writing.png" width="70" class="img-fluid" alt="Video Editing">
 								<h5 class="card-title text-red"><b>Lerem Ipsum</b></h5>
 								<div class="" style="font-size: 13px !important;font-weight: 400;line-height:1.5;">
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -1170,7 +1161,7 @@ $(document).ready(function() {
         			<div class="col-12 col-lg-4">
         			    <div class="card my-auto">
 							<div class="card-body set-box-height-1 text-center">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/tabs-live_event.png" width="70" class="img-fluid" alt="Video Editing">
+								<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/tabs-live_event.png" width="70" class="img-fluid" alt="Video Editing">
 								<h5 class="card-title text-red"><b>Lorem Ipsum </b></h5>
 								<div class="" style="font-size: 13px !important;font-weight: 400;line-height:1.5;">
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -1182,7 +1173,7 @@ $(document).ready(function() {
         			<div class="col-12 col-lg-4">
         			    <div class="card my-auto">
 							<div class="card-body set-box-height-1 text-center">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/tabs-studio_rental.png" width="70" class="img-fluid" alt="Video Editing">
+								<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/tabs-studio_rental.png" width="70" class="img-fluid" alt="Video Editing">
 								<h5 class="card-title text-red"><b>Lorem Ipsum</b></h5>
 								<div class="" style="font-size: 13px !important;font-weight: 400;line-height:1.5;">
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -1212,88 +1203,88 @@ $(document).ready(function() {
 			<div class="swiper-container swiper2">
 				<div class="swiper-wrapper">
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717502.jpg" class="img-fluid" alt="Inverex" title="Inverex">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717502.jpg" class="img-fluid" alt="Inverex" title="Inverex">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717607.jpg" class="img-fluid" alt="Atkearney" title="Atkearney">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717607.jpg" class="img-fluid" alt="Atkearney" title="Atkearney">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717340.jpg" class="img-fluid" alt="The Gulf Hotel Bahrain" title="The Gulf Hotel Bahrain">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717340.jpg" class="img-fluid" alt="The Gulf Hotel Bahrain" title="The Gulf Hotel Bahrain">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717564.jpg" class="img-fluid" alt="Deyaar" title="Deyaar">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717564.jpg" class="img-fluid" alt="Deyaar" title="Deyaar">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717477.jpg" class="img-fluid" alt="Khaadi" title="Khaadi">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717477.jpg" class="img-fluid" alt="Khaadi" title="Khaadi">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717530.jpg" class="img-fluid" alt="Homes R Us" title="Homes R Us">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717530.jpg" class="img-fluid" alt="Homes R Us" title="Homes R Us">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717388.jpg" class="img-fluid" alt="Quetta" title="Quetta">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717388.jpg" class="img-fluid" alt="Quetta" title="Quetta">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717457.jpg" class="img-fluid" alt="Lu" title="Lu">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717457.jpg" class="img-fluid" alt="Lu" title="Lu">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717574.jpg" class="img-fluid" alt="Coded Minds" title="Coded Minds">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717574.jpg" class="img-fluid" alt="Coded Minds" title="Coded Minds">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717434.jpg" class="img-fluid" alt="Mocciani" title="Mocciani">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717434.jpg" class="img-fluid" alt="Mocciani" title="Mocciani">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717407.jpg" class="img-fluid" alt="Outfitters" title="Outfitters">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717407.jpg" class="img-fluid" alt="Outfitters" title="Outfitters">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717450.jpg" class="img-fluid" alt="Master Chef" title="Master Chef">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717450.jpg" class="img-fluid" alt="Master Chef" title="Master Chef">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717466.jpg" class="img-fluid" alt="LALS Group" title="LALS Group">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717466.jpg" class="img-fluid" alt="LALS Group" title="LALS Group">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717589.jpg" class="img-fluid" alt="Carrier" title="Carrier">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717589.jpg" class="img-fluid" alt="Carrier" title="Carrier">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717492.jpg" class="img-fluid" alt="IRTHI" title="IRTHI">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717492.jpg" class="img-fluid" alt="IRTHI" title="IRTHI">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717621.jpg" class="img-fluid" alt="Asia" title="Asia">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717621.jpg" class="img-fluid" alt="Asia" title="Asia">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717373.jpg" class="img-fluid" alt="Rakez" title="Rakez">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717373.jpg" class="img-fluid" alt="Rakez" title="Rakez">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717401.jpg" class="img-fluid" alt="Pinky Memsaab" title="Pinky Memsaab">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717401.jpg" class="img-fluid" alt="Pinky Memsaab" title="Pinky Memsaab">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717413.jpg" class="img-fluid" alt="National" title="National">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717413.jpg" class="img-fluid" alt="National" title="National">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717419.jpg" class="img-fluid" alt="Mountain Dew" title="Mountain Dew">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717419.jpg" class="img-fluid" alt="Mountain Dew" title="Mountain Dew">
 					</div>
 										<div class="swiper-slide">
 						<img src="images/logos-1627717395.jpg" class="img-fluid" alt="Prescott" title="Prescott">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717442.jpg" class="img-fluid" alt="Mastermind" title="Mastermind">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717442.jpg" class="img-fluid" alt="Mastermind" title="Mastermind">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717554.jpg" class="img-fluid" alt="EWEC" title="EWEC">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717554.jpg" class="img-fluid" alt="EWEC" title="EWEC">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717522.jpg" class="img-fluid" alt="IBM Watson Health" title="IBM Watson Health">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717522.jpg" class="img-fluid" alt="IBM Watson Health" title="IBM Watson Health">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717426.jpg" class="img-fluid" alt="Mondelez" title="Mondelez">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717426.jpg" class="img-fluid" alt="Mondelez" title="Mondelez">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717599.jpg" class="img-fluid" alt="Cafu" title="Cafu">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717599.jpg" class="img-fluid" alt="Cafu" title="Cafu">
 					</div>
 										<div class="swiper-slide">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/logos-1627717513.jpg" class="img-fluid" alt="MKV Digital" title="MKV Digital">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717513.jpg" class="img-fluid" alt="MKV Digital" title="MKV Digital">
 					</div>
 										<div class="swiper-slide">
-						<img src="/<?php echo get_template_directory_uri(); ?>images/logos-1627717538.jpg" class="img-fluid" alt="Hilal" title="Hilal">
+						<img src="/https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/images/logos-1627717538.jpg" class="img-fluid" alt="Hilal" title="Hilal">
 					</div>
 									</div>
                 <!-- If we need navigation buttons -->
@@ -1351,14 +1342,14 @@ $(document).ready(function() {
 
 <div class="call_btn hideOnScroll">
     <a rel="nofollow" href="tel:+971551171248">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/images-call-phone.png" onclick="gtag_report_conversion()" width="50">
+        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-call-phone.png" onclick="gtag_report_conversion()" width="50">
     </a>
 </div>
 
 <!-- //WhatsApp -->
 <div class="whatsapp hideOnScroll">
     <a href="https://api.whatsapp.com/send?phone=971551171248" target="_blank" rel="nofollow">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/images-whatsapp.svg" onclick="gtag_report_conversion()" width="50">
+        <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-whatsapp.svg" onclick="gtag_report_conversion()" width="50">
     </a>
 </div>
 <!-- //WhatsApp -->
@@ -1518,9 +1509,9 @@ Contact Us
 			<div class="col-12 col-lg-3 col-md-3 mb-3">
 				<h5>GET IN TOUCH</h5>
 				<ul class="list-unstyled text-small touch-list">
-					<li class="footer-text"><a href="tel:+97144456848"><img src="<?php echo get_template_directory_uri(); ?>/images/images-footer-phone-icon.svg" class="menu-prefixicon"> +97144456848</a></li>
-					<li class="footer-text"><a href="tel:+971559564135"><img src="<?php echo get_template_directory_uri(); ?>/images/images-footer-phone-icon.svg" class="menu-prefixicon"> +971559564135</a></li>
-					<li class="footer-text"><a href="mailto:info@mccollinsmedia.com"><img src="<?php echo get_template_directory_uri(); ?>/images/images-footer-email-icon.svg" class="menu-prefixicon"> info@mccollinsmedia.com</a></li>
+					<li class="footer-text"><a href="tel:+97144456848"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-footer-phone-icon.svg" class="menu-prefixicon"> +97144456848</a></li>
+					<li class="footer-text"><a href="tel:+971559564135"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-footer-phone-icon.svg" class="menu-prefixicon"> +971559564135</a></li>
+					<li class="footer-text"><a href="mailto:info@mccollinsmedia.com"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-footer-email-icon.svg" class="menu-prefixicon"> info@mccollinsmedia.com</a></li>
 					<!--<img src="images/payment-logos.jpg" class="img-fluid" />-->
 				</ul>
                 <ul class="foot-social">
@@ -1591,8 +1582,8 @@ Contact Us
     <!-- /move top -->
 </footer>
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="<?php echo get_template_directory_uri(); ?>/js/umd-popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
-<script src="<?php echo get_template_directory_uri(); ?>/js/js-bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+<script src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//js/umd-popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+<script src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//js/js-bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
 
 <!-- script for teams1-->
 <script>
