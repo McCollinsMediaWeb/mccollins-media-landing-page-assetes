@@ -419,7 +419,7 @@ $(document).ready(function() {
 			</div>
 			<div class="col-12 col-lg-6 my-auto">
 				<div class="imgCont">
-					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/amazone2.jpg" class="img-fluid" alt="">
+					<img style="width: 100%;" src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/amazone2.jpg" class="img-fluid" alt="">
 					<div class="posterOverlay">
 						<i class="fa fa-youtube-play  pgImg"></i>
 					</div>
@@ -433,7 +433,7 @@ $(document).ready(function() {
 		<div class="row">
 			
 			<div class="col-6 col-lg-3 col-md-3 border servCon px-0">
-				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video-production-company-dubai-2.jpg);">
+				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/11.jpg);">
 					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
 					<div class="centered" style="top:50%;">
 						<center>
@@ -446,7 +446,7 @@ $(document).ready(function() {
 			</div>
 			
 			<div class="col-6 col-lg-3 col-md-3 border servCon px-0">
-				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video-production-company-dubai-3.jpg);">
+				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/12.jpg);">
 					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
 					<div class="centered" style="top:50%;">
 						<center>
@@ -459,7 +459,7 @@ $(document).ready(function() {
 			</div>
 			
 			<div class="col-6 col-lg-3 col-md-3 border servCon px-0">
-				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video-production-company-dubai-4.jpg);">
+				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/13.jpg);">
 					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
 					<div class="centered" style="top:50%;">
 						<center>
@@ -472,7 +472,7 @@ $(document).ready(function() {
 			</div>
 			
 			<div class="col-6 col-lg-3 col-md-3 border servCon px-0">
-				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/video-production-company-dubai-1.jpg);">
+				<div class="nu_relCont servConBG" style="background-image: url(https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/14.jpg);">
 					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-video-production-company-dubai-5.png" class="img-fluid" alt="McCollins Media">
 					<div class="centered" style="top:50%;">
 						<center>
@@ -948,7 +948,7 @@ McCollins Media Productions has co-produced Pinky Memsaab that has garnered UK A
 			</div>
 			<div class="col-12 col-lg-6 my-auto">
 				<div class="imgCont">
-					<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/amazone1.jpg" class="img-fluid" alt="">
+					<img style="width: 100%;" src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/amazone1.jpg" class="img-fluid" alt="">
 					<div class="posterOverlay">
 						<i class="fa fa-youtube-play  pgImg"></i>
 					</div>
