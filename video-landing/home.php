@@ -1203,40 +1203,40 @@ $(document).ready(function() {
 			<div class="swiper-container swiper2">
 				<div class="swiper-wrapper">
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717502.jpg" class="img-fluid" alt="Inverex" title="Inverex">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c1.jpg" class="img-fluid" alt="Inverex" title="Inverex">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717607.jpg" class="img-fluid" alt="Atkearney" title="Atkearney">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c2.jpg" class="img-fluid" alt="Atkearney" title="Atkearney">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717340.jpg" class="img-fluid" alt="The Gulf Hotel Bahrain" title="The Gulf Hotel Bahrain">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c3.jpg" class="img-fluid" alt="The Gulf Hotel Bahrain" title="The Gulf Hotel Bahrain">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717564.jpg" class="img-fluid" alt="Deyaar" title="Deyaar">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c4.jpg" class="img-fluid" alt="Deyaar" title="Deyaar">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717477.jpg" class="img-fluid" alt="Khaadi" title="Khaadi">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c5.jpg" class="img-fluid" alt="Khaadi" title="Khaadi">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717530.jpg" class="img-fluid" alt="Homes R Us" title="Homes R Us">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c6.jpg" class="img-fluid" alt="Homes R Us" title="Homes R Us">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717388.jpg" class="img-fluid" alt="Quetta" title="Quetta">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c7.jpg" class="img-fluid" alt="Quetta" title="Quetta">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717457.jpg" class="img-fluid" alt="Lu" title="Lu">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c8.jpg" class="img-fluid" alt="Lu" title="Lu">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717574.jpg" class="img-fluid" alt="Coded Minds" title="Coded Minds">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c9.jpg" class="img-fluid" alt="Coded Minds" title="Coded Minds">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717434.jpg" class="img-fluid" alt="Mocciani" title="Mocciani">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c10.jpg" class="img-fluid" alt="Mocciani" title="Mocciani">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717407.jpg" class="img-fluid" alt="Outfitters" title="Outfitters">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c11.jpg" class="img-fluid" alt="Outfitters" title="Outfitters">
 					</div>
 										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717450.jpg" class="img-fluid" alt="Master Chef" title="Master Chef">
+						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c12.jpg" class="img-fluid" alt="Master Chef" title="Master Chef">
 					</div>
 										<div class="swiper-slide">
 						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717466.jpg" class="img-fluid" alt="LALS Group" title="LALS Group">
@@ -1250,43 +1250,7 @@ $(document).ready(function() {
 										<div class="swiper-slide">
 						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717621.jpg" class="img-fluid" alt="Asia" title="Asia">
 					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717373.jpg" class="img-fluid" alt="Rakez" title="Rakez">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717401.jpg" class="img-fluid" alt="Pinky Memsaab" title="Pinky Memsaab">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717413.jpg" class="img-fluid" alt="National" title="National">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717419.jpg" class="img-fluid" alt="Mountain Dew" title="Mountain Dew">
-					</div>
-										<div class="swiper-slide">
-						<img src="images/logos-1627717395.jpg" class="img-fluid" alt="Prescott" title="Prescott">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717442.jpg" class="img-fluid" alt="Mastermind" title="Mastermind">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717554.jpg" class="img-fluid" alt="EWEC" title="EWEC">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717522.jpg" class="img-fluid" alt="IBM Watson Health" title="IBM Watson Health">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717426.jpg" class="img-fluid" alt="Mondelez" title="Mondelez">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717599.jpg" class="img-fluid" alt="Cafu" title="Cafu">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717513.jpg" class="img-fluid" alt="MKV Digital" title="MKV Digital">
-					</div>
-										<div class="swiper-slide">
-						<img src="/https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/images/logos-1627717538.jpg" class="img-fluid" alt="Hilal" title="Hilal">
-					</div>
-									</div>
+										
                 <!-- If we need navigation buttons -->
                 <div class="swiper-button-prev"></div>
                 <div class="swiper-button-next"></div>
