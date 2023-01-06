@@ -30,10 +30,10 @@ corporate video production company based in UAE, Pakistan and Portugal">
 corporate video production company based in UAE, Pakistan and Portugal">
 
 <!-- Favicon and touch icons -->
-<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//favicons/images-favicon.png">
-<link rel="apple-touch-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//favicons/images-favicon.png">
-<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//favicons/images-favicon.png">
-<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//favicons/images-favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/favicon.ico">
+<link rel="apple-touch-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/favicon.ico">
 <meta name="robots" content="index,follow">
 <!-- Favicon and touch icons -->
 
@@ -207,6 +207,10 @@ $(document).ready(function() {
 });
 </script>
 <style type="text/css">
+	body .myFooter {
+		padding: 0px 0px !important;
+		margin-top: 0;
+	}
 	@media only screen and (max-width: 700px) {
 		.p-5.Pad0 {
 					padding: 0 !important;
@@ -223,14 +227,7 @@ $(document).ready(function() {
     <nav class="nav-bar">
         <div class="nav-menu">
             <div class="nav-wrapper">
-                <ul id="menu-main-menu" class="menu">
-                    <li class="menu-item"><a href="mccollinsmedia.com">Home</a></li>
-                    <li class="menu-item"><a href="about-us.html">About</a></li>
-                    <li class="menu-item"><a href="services.html">Services</a></li>
-                    <li class="menu-item"><a href="our-blogs.html">Blog</a></li>
-                    <li class="menu-item"><a href="our-work.html">Works</a></li>
-                    <li class="menu-item"><a href="contact-us.html">Contact</a></li>
-                </ul>
+               
                 <div class="lead-links">
                     <a href="mailto:hey@mccollinsmedia.com">
                         <img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-menu-mail.svg" class="menu-prefixicon">
@@ -1238,18 +1235,7 @@ $(document).ready(function() {
 										<div class="swiper-slide">
 						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing/c12.jpg" class="img-fluid" alt="Master Chef" title="Master Chef">
 					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717466.jpg" class="img-fluid" alt="LALS Group" title="LALS Group">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717589.jpg" class="img-fluid" alt="Carrier" title="Carrier">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717492.jpg" class="img-fluid" alt="IRTHI" title="IRTHI">
-					</div>
-										<div class="swiper-slide">
-						<img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/logos-1627717621.jpg" class="img-fluid" alt="Asia" title="Asia">
-					</div>
+									
 										
                 <!-- If we need navigation buttons -->
                 <div class="swiper-button-prev"></div>
@@ -1322,185 +1308,7 @@ $(document).ready(function() {
 
 <footer class="myFooter pt-5">
 
-    <section class="">
-        <div class="container">
-
-            <div class="row">
-                
-                <div class="col-12 col-lg-3 footer-nav mb-3">
-                    <h5>Navigation</h5>
-                    <div class="row g-1">
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="mccollinsmedia.com" style="color:#fff;text-decoration:none;">
-Home
-                            </a>
-                        </span>
-                        </p>
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="about-us.html" style="color:#fff;text-decoration:none;">
-About
-                            </a>
-                        </span>
-                        </p>
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="services.html" style="color:#fff;text-decoration:none;">
-								Portfolio
-                            </a>
-                        </span>
-                        </p>
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="our-work.html" style="color:#fff;text-decoration:none;">
-Blogs
-                            </a>
-                        </span>
-                        </p>
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="contact-us.html" style="color:#fff;text-decoration:none;">
-Contact Us
-                            </a>
-                        </span>
-                        </p>
-						<p class="mb-1">
-							<span class="me-3 mb-3">
-								<a href="contact-us.html" style="color:#fff;text-decoration:none;">
-	FAQ
-								</a>
-							</span>
-							</p>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-3 footer-nav mb-3">
-                    <h5>Navigation</h5>
-                    <div class="row g-1">
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="mccollinsmedia.com" style="color:#fff;text-decoration:none;">
-Home
-                            </a>
-                        </span>
-                        </p>
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="about-us.html" style="color:#fff;text-decoration:none;">
-About
-                            </a>
-                        </span>
-                        </p>
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="services.html" style="color:#fff;text-decoration:none;">
-								Portfolio
-                            </a>
-                        </span>
-                        </p>
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="our-work.html" style="color:#fff;text-decoration:none;">
-Blogs
-                            </a>
-                        </span>
-                        </p>
-                        <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="contact-us.html" style="color:#fff;text-decoration:none;">
-Contact Us
-                            </a>
-                        </span>
-                        </p>
-						<p class="mb-1">
-							<span class="me-3 mb-3">
-								<a href="contact-us.html" style="color:#fff;text-decoration:none;">
-	FAQ
-								</a>
-							</span>
-							</p>
-                    </div>
-                </div>
-			<div class="col-12 col-lg-3 footer-nav mb-3">
-				<h5>Our Services</h5>
-				<div class="row g-1">
-                    <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="sas-feature-film.html" style="color:#fff;text-decoration:none;">
-								Website Development
-                            </a>
-                        </span>
-                    </p>
-                    <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="sas-documentary-film.html" style="color:#fff;text-decoration:none;">
-								Social Media Marketing
-                            </a>
-                        </span>
-                    </p>
-                    <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="sas-tv-commercial.html" style="color:#fff;text-decoration:none;">
-								Performance Marketing
-                            </a>
-                        </span>
-                    </p>
-                    <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="sas-corporate-video.html" style="color:#fff;text-decoration:none;">
-								SEO and Analytics
-                            </a>
-                        </span>
-                    </p>
-                    <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="sas-animated-videos.html" style="color:#fff;text-decoration:none;">
-								Content Production
-                            </a>
-                        </span>
-                    </p>
-                    <p class="mb-1">
-                        <span class="me-3 mb-3">
-                            <a href="sas-event-videos.html" style="color:#fff;text-decoration:none;">
-								Branding
-                            </a>
-                        </span>
-                    </p>
-                    
-									</div>
-			</div>
-
-			<div class="col-12 col-lg-3 col-md-3 mb-3">
-				<h5>GET IN TOUCH</h5>
-				<ul class="list-unstyled text-small touch-list">
-					<li class="footer-text"><a href="tel:+97144456848"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-footer-phone-icon.svg" class="menu-prefixicon"> +97144456848</a></li>
-					<li class="footer-text"><a href="tel:+971559564135"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-footer-phone-icon.svg" class="menu-prefixicon"> +971559564135</a></li>
-					<li class="footer-text"><a href="mailto:info@mccollinsmedia.com"><img src="https://mccollinsmediaweb.github.io/mccollins-media-landing-page-assetes/video-landing//images/images-footer-email-icon.svg" class="menu-prefixicon"> info@mccollinsmedia.com</a></li>
-					<!--<img src="images/payment-logos.jpg" class="img-fluid" />-->
-				</ul>
-                <ul class="foot-social">
-                    <li><a href="https://www.facebook.com/mccollinsmedia/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="https://api.whatsapp.com/send?phone=971559564135&text=I%20would%20like%20to%20know%20more%20about%20McCollins%20Media" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
-                    <li><a href="https://twitter.com/mccollinsmedia?lang=en" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="https://www.instagram.com/mccollinsmedia/?hl=en" target="_blank"><i class="fa fa-instagram"></i></a></li>
-					<li><a href="https://www.linkedin.com/company/mccollins-media/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-					<li><a href="https://vm.tiktok.com/ZSJShjmYH/" target="_blank"><i class="fa fa-tiktok"></i></a></li>
-
-                </ul>
-                <script type="text/javascript" src="js/js-widget.js"></script> <div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="2" data-height="45" data-nofollow="true" data-expandifr="true" data-clutchcompany-id="1819512"></div>
-			</div>
-
-
-            </div>
-
-
-
-
-
-        </div>
-
-    </section>
-
+    
     <section class="py-4 bg-light">
         <div class="container">
 
